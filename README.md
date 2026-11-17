@@ -1,4 +1,4 @@
-![Logo FORJA Match](https://forja-match.netlify.app/forja_match_logo.png)
+![FORJA Match Logo](https://forja-match.netlify.app/forja_match_logo.png)
 
 # Alguma coisa
 
