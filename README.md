@@ -4,10 +4,6 @@
 
 ### mais outra coisa
 
-#### e lá vai mais coisa
-
-##### coisa coisa coisa
-
 - item
 - outro item
 - mais um item
@@ -32,7 +28,3 @@ print('eita')
 if a > b:
   len('oxe')
 ```
-
-aasdf sadf asfd as fdaksfjdkadsjfsad fasdflajsfjasdf asfasdjfhasdf
-
-afnasfsajfdlsajdfljadksf
